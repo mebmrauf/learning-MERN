@@ -16,3 +16,7 @@ for installing npm run this command in terminal
 install express js
 
 npm install --save express
+
+to parse incoming request body
+
+npm install --save body-parser

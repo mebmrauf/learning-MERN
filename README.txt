@@ -20,3 +20,7 @@ npm install --save express
 to parse incoming request body
 
 npm install --save body-parser
+
+to install template engines - ejs, pug, handlebars
+
+npm install --save ejs pug express-handlebars
